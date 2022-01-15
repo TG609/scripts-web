@@ -29,20 +29,22 @@
     }
 
     .boximg {
-        display: flex;
-        border-radius: 10px;
-        text-align: center;
-        position: relative;
-        border: 1px solid rgba(30, 30, 30);
-        width: 550px;
-        margin-top: 30px;
-        margin-right: 9px;
-        margin-left: 9px;
-        flex-direction: column;
-        align-items: center;
-        margin-bottom: 30px;
-        flex-wrap: wrap;
-        box-shadow: 0px 0px 13px #1e1e1e;
+      display: flex;
+      border-radius: 10px;
+      text-align: center;
+      position: relative;
+      border: 1px solid rgba(30, 30, 30);
+      width: 550px;
+      margin-top: 30px;
+      margin-right: 9px;
+      margin-left: 9px;
+      flex-direction: column;
+      height: 550px;
+      align-items: center;
+      margin-bottom: 30px;
+      flex-wrap: wrap;
+      box-shadow: 0px 0px 13px #1e1e1e;
+}
 
 
     }
