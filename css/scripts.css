@@ -106,12 +106,13 @@
 
 
     .feat {
+        font-size: 15px;
         color: white;
         font-weight: normal;
-        font-size: 20px;
         text-align: left;
         padding-top: 10px;
-        position: relative;
+        position: absolute;
+        bottom: 10px;
         left: 70px;
         padding-right: 70px;
 
